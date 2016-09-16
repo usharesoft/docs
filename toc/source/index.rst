@@ -6,11 +6,11 @@ Welcome to the UForge Online Documentation
 UForge AppCenter
 ----------------
 
-	* `User Guide <http://docs.usharesoft.com/projects/appcenter-user-guide/en/stable>`_ 
-	* `Admin Guide <http://docs.usharesoft.com/projects/appcenter-admin-guide/en/stable>`_
-	* `API Guide <http://docs.usharesoft.com/projects/appcenter-api-guide/en/stable>`_
+	* `User Guide <http://docs.usharesoft.com/projects/appcenter-user-guide/en/latest>`_ 
+	* `Admin Guide <http://docs.usharesoft.com/projects/appcenter-admin-guide/en/latest>`_
+	* `API Guide <http://docs.usharesoft.com/projects/appcenter-api-guide/en/latest>`_
 
 Hammr Command Line
 ------------------
 
-	* `User Guide <http://docs.usharesoft.com/projects/hammr/en/stable>`_
+	* `User Guide <http://docs.usharesoft.com/projects/hammr/en/latest>`_
