@@ -1,7 +1,7 @@
 .. Copyright 2018 FUJITSU LIMITED
 
-Welcome to the UShareSoft Online Documentation
-==============================================
+Welcome to the UForge Online Documentation
+===========================================
 
 UForge AppCenter
 ----------------

@@ -1,6 +1,6 @@
-## UShareSoft Product Documentation
+## UForge Product Documentation
 
-This directory contains the source for UShareSoft online documentation.  This contains only the global table of contents for all the UShareSoft product documentation.  This uses [Sphinx](http://sphinx-doc.org) to build static html files from these source files.
+This directory contains the source for UForge online documentation.  This contains only the global table of contents for all the UForge product documentation.  This uses [Sphinx](http://sphinx-doc.org) to build static html files from these source files.
 
 ### Building locally
 
