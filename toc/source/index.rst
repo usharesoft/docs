@@ -1,4 +1,4 @@
-.. Copyright 2016 FUJITSU LIMITED
+.. Copyright 2018 FUJITSU LIMITED
 
 Welcome to the UForge Online Documentation
 ===========================================
