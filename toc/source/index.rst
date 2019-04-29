@@ -8,7 +8,8 @@ UForge AppCenter
 
 	* `User Guide <http://docs.usharesoft.com/projects/appcenter-user-guide/en/latest>`_ 
 	* `Admin Guide <http://docs.usharesoft.com/projects/appcenter-admin-guide/en/latest>`_
-	* `API Guide <http://docs.usharesoft.com/projects/appcenter-api-guide/en/latest>`_
+	* `API Guide <http://docs.usharesoft.com/projects/appcenter-api-reference/en/latest>`_
+	* `API Guide (older versions) <http://docs.usharesoft.com/projects/appcenter-api-guide/en/latest>`_
 
 Hammr Command Line
 ------------------
